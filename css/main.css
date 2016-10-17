@@ -1,0 +1,17 @@
+/*
+* @Author: 哈哈
+* @Date:   2016-10-17 19:32:56
+* @Last Modified by:   哈哈
+* @Last Modified time: 2016-10-17 19:38:54
+*/
+body{
+	background:#fff;
+	}
+#canvas{
+	background:#000;
+	}
+.box{
+	width:500px;
+	height:500px;
+	margin:0 auto;
+	}
